@@ -1,6 +1,6 @@
 
 
-[图文并茂-超详解 CS:APP: Lab3-Attack（附带栈帧分析) - 周小伦 - 博客园 (cnblogs.com)](https://www.cnblogs.com/JayL-zxl/p/14361158.html)(主要)
+[图文并茂-超详解 CS:APP: Lab3-Attack（附带栈帧分析) - 周小伦 - 博客园 (cnblogs.com)](https://www.cnblogs.com/JayL-zxl/p/14361158.html)
 
 [【读厚 CSAPP】III Attack Lab | 小土刀 2.0 (wdxtub.com)](https://wdxtub.com/csapp/thick-csapp-lab-3/2016/04/16/)
 
@@ -215,7 +215,4 @@ ec 17 40 00 c3 00 00 00
 
 ## Level 3
 
-```c
-T
-```
-
+感觉其实也没有多大意思，就是对返回地址做各种hack，先做到这吧，以后有兴趣再回来做.
